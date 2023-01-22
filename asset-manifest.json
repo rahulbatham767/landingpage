@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/landingpage/static/css/main.0c3df526.css",
+    "main.js": "/landingpage/static/js/main.0da4f384.js",
+    "static/media/wine.webp": "/landingpage/static/media/wine.265e4d4cef012349b7f8.webp",
+    "static/media/wine1.webp": "/landingpage/static/media/wine1.f197b5ec41847dac8c76.webp",
+    "static/media/wine2.webp": "/landingpage/static/media/wine2.00e840e6656a3b3d566e.webp",
+    "index.html": "/landingpage/index.html",
+    "main.0c3df526.css.map": "/landingpage/static/css/main.0c3df526.css.map",
+    "main.0da4f384.js.map": "/landingpage/static/js/main.0da4f384.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c3df526.css",
+    "static/js/main.0da4f384.js"
+  ]
+}
